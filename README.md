@@ -1,8 +1,34 @@
 # DivChart
-A simple, declarative charting library that works purely with HTML data attributes.
+A simple, declarative charting library that works purely with HTML data attributes. DivChart is an easy way, to render data in a simple graph.
+
+#### Features
+- 💡 Interactive tooltips
+- 📱 Responsive design
+- ⚛️ React support
+- 🔧 Zero dependencies
+- 📦 Lightweight
 
 ## Installation
-coming soon. setting up npm.
+
+### NPM
+```bash
+npm install divchart
+```
+
+Then import and use in your project:
+
+```javascript
+import { Chart } from 'divchart';
+```
+
+### CDN
+
+Add the script directly into your HTML:
+
+```html
+<script src="https://unpkg.com/divchart"></script>
+```
+
 
 ## Usage
 
