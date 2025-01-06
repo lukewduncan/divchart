@@ -2,11 +2,13 @@
 A simple, declarative charting library that works purely with HTML data attributes. DivChart is an easy way, to render data in a simple graph.
 
 #### Features
-- 💡 Interactive tooltips
-- 📱 Responsive design
-- ⚛️ React support
-- 🔧 Zero dependencies
-- 📦 Lightweight
+- Pure HTML data attributes (or props w/ React) configuration
+- Automatic axes and labels
+- Interactive tooltips
+- Responsive design
+- React support
+- Zero dependencies
+- Lightweight
 
 ## Installation
 
@@ -86,14 +88,6 @@ function App() {
 ```
 
 Feel free to wrap the div (or component) in any stylized tags e.g. placing a border around the graph.
-
-## Features
-- Pure HTML data attributes configuration
-- No JavaScript setup required
-- Supports line, bar, and pie charts
-- Responsive and interactive
-- Tooltips and animations
-- Automatic axes and labels
 
 ## Documentation
 
