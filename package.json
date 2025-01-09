@@ -1,6 +1,6 @@
 {
   "name": "divchart",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A simple chart library that works purely with HTML data attributes.",
   "main": "dist/divchart.js",
   "module": "dist/divchart.esm.js",
