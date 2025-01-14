@@ -20,8 +20,9 @@ npm install divchart
 Then import and use in your project:
 
 ```javascript
-import { Chart } from 'divchart';
+import { DivChart } from 'divchart';
 ```
+Note: there is a dedicated React component. Instructions for that are detailed below.
 
 ### CDN
 
@@ -66,7 +67,7 @@ This generates the following chart:
 Import DivChart and use it directly in your React components:
 
 ```jsx
-import Chart from 'divchart';
+import { Chart } from 'divchart';
 
 function App() {
   const data = [
